@@ -1,0 +1,15 @@
+{
+  "name": "复盘助手",
+  "short_name": "复盘助手",
+  "description": "收盘后模型选股、行业与概念热点统计",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07101d",
+  "theme_color": "#07101d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
